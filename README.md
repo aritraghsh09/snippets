@@ -2,3 +2,5 @@
 This is meant to be a personal collection of python routines (both for plotting &amp; general data analysis) that I use pretty frequently.
 
 Curvefit --> Python routine for fitting a curve using Scipy's curvefit
+
+Matplotlib --> Collection of different plotting scripts which use Pythons Matplotlib
