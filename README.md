@@ -8,3 +8,5 @@ Matplotlib --> Collection of different plotting scripts which use Pythons Matplo
 MCMC --> A very simple implementation of MCMC(Metropolis) on Supernova Data
 
 Progress Bar --> A simple progress bar to add to those pesky long runs! 
+
+ML --> Different simple ML routines
