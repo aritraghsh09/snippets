@@ -18,3 +18,5 @@ stacked_para["Parameter 2"] = para_2
 out_file = open("file.txt","w")
 np.savetxt(out_file,stacked_para,delimiter=" ",fmt=['%s','%d'])
 out_file.close()
+
+data = np.loadtxt("file.txt",dtype=[('Parameter 1',object), ('Parameter 2', np.int64)])
