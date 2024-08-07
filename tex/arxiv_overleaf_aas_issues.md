@@ -4,10 +4,12 @@ Some typical issues crop up when one uses an `aastex` class file on Overleaf to 
 
 ## Delete Unnecessary Files
 
-The default `aastex` template on Overleaf comes with a few additional `.tex` files that can confuse the arXiv compiler. Delete all unnecessary `.tex` files. Some common ones are:-
+The default `aastex` template on Overleaf comes with a few additional `.tex` files that can confuse the arXiv compiler. Some common ones are:-
 * `natnotes.tex`
 * `natbib.tex`
 * `aassymbols.tex`
+
+Delete these `.tex` files or move them to a new folder within the project. 
 
 ## Download the `.bbl` file
 The best way to do this is to create a copy of your project on Overleaf; then hit submit. From the resulting search box, select arXiv; and this will generate a zip file with the `.bbl` file included and named exactly how the arXiv system prefers it to be.
